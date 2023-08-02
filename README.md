@@ -1,1 +1,3 @@
-just the ultimate mod menu that lags out the website if you try to paste it so obsticated
+gamboy advance games
+
+<a href="https://mixtapeisfire.github.io/gba/launcher.html#mariokart"a>
