@@ -1,4 +1,4 @@
-gamboy advance games
+gameboy advance games
 
 <a href="https://cattn.github.io/gba/launcher.html#supermarioadvance"> super mario advance 1</a>
 <p></p>
