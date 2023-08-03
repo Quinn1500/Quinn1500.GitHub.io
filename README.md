@@ -8,3 +8,9 @@ gameboy advance games
 <p></p>
 <a href="https://cattn.github.io/gba/launcher.html#supermarioadvance4"> super mario advance 4</a>
 <p></p>
+<a href="https://cattn.github.io/gba/launcher.html#dm"> doom </a>
+<p></p>
+<a href="https://cattn.github.io/gba/launcher.html#dm2"> doom2</a>
+<p></p>
+<a href="https://cattn.github.io/gba/launcher.html#zelda_past"> legend of zelda a link to the past</a>
+<p></p>
