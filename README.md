@@ -20,5 +20,20 @@ to use these games the controls are your arrow keys and then a s z x  also retur
 <p></p>
 <a href="https://cattn.github.io/gba/launcher.html#zelda_past"> legend of zelda a link to the past</a>
 <p></p>
-<a href="<a href=""> </a>"> fire emblem</a>
+<a href="https://cattn.github.io/gba/launcher.html#fire_emblem"> fire emblem</a>
+<p></p>
+
+<a href="https://cattn.github.io/gba/launcher.html#pokemonred"> pokemon fire red</a>
+<p></p>
+
+<a href="https://cattn.github.io/gba/launcher.html#pokemonruby"> pokemon ruby</a>
+<p></p>
+
+<a href=""> </a>
+<p></p>
+
+<a href=""> </a>
+<p></p>
+
+<a href=""> </a>
 <p></p>
