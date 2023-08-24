@@ -29,7 +29,7 @@ to use these games the controls are your arrow keys and then a s z x  also retur
 <a href="https://cattn.github.io/gba/launcher.html#pokemonruby"> pokemon ruby</a>
 <p></p>
 
-<a href=""> </a>
+<a href="https://mixtapeisfire.github.io/gba/launcher.html#super_street_fighter_2_turbo_revival"> super street fight 2 turbo revival</a>
 <p></p>
 
 <a href=""> </a>
